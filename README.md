@@ -1,0 +1,6 @@
+# myCart
+
+LOGIN DETAILS
+
+EMAIL: itu@gmail.com
+PASSWORD: 123123
